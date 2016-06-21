@@ -20,9 +20,8 @@
 <foaf:workplaceHomepage rdf:resource="https://library.stanford.edu/department/digital-library-systems-and-services-dlss"/>
 <foaf:workInfoHomepage rdf:resource="https://library.stanford.edu/department/digital-library-systems-and-services-dlss/about-us"/>
 <foaf:schoolHomepage rdf:resource="http://www.unc.edu/"/>
-<foaf:knows>
-<foaf:Person>
-<foaf:name>Tony Zanella</foaf:name>
-<foaf:mbox_sha1sum>9620761ad823d4ee5a6e091ebaeb5018fef993a4</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="https://web.stanford.edu/~azanella/me.rdf"/></foaf:Person></foaf:knows></foaf:Person>
-</rdf:RDF>
+<foaf:knows rdf:resource="https://stanford.edu/~azanella/me.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~laneymcg/laura.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~arcadia/foaf.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~thorsenh/foaf.rdf#me"/>
+</foaf:Person></rdf:RDF>
