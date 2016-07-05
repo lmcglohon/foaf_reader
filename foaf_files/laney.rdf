@@ -28,4 +28,12 @@
 <foaf:knows rdf:resource="https://stanford.edu/~arcadia/foaf.rdf#me"/>
 <foaf:knows rdf:resource="https://stanford.edu/~thorsenh/foaf.rdf#me"/>
 <foaf:knows rdf:resource="https://stanford.edu/~ahafele/foaf.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~dlrueda/foaf.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~sdoljack/sdoljack_foaf.rdf#me"/>
+<foaf:knows rdf:resource="https://stanford.edu/~bess/foaf.rdf#me"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Quilting"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Tattoo"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Harley-Davidson"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Cross-stitch"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Medieval_medicine_of_Western_Europe"/>
 </foaf:Person></rdf:RDF>
